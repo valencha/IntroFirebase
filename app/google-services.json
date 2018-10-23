@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "989249208972",
+    "firebase_url": "https://ecosistemas-valencha.firebaseio.com",
+    "project_id": "ecosistemas-valencha",
+    "storage_bucket": "ecosistemas-valencha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989249208972:android:9d37a4cba83c3f83",
+        "android_client_info": {
+          "package_name": "com.example.a1113699706.introfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989249208972-e2lpebklr2s8qvrg8drfi3mgml54vslq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1113699706.introfirebase",
+            "certificate_hash": "1eff3e0e09df187f6072834923e94a0abbbe8b4e"
+          }
+        },
+        {
+          "client_id": "989249208972-5co77ijlnklcci46u53ed9md0visjjv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5CsIzvOJVXvq4W2RRrIMYZ74HGht1KrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989249208972-5co77ijlnklcci46u53ed9md0visjjv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
